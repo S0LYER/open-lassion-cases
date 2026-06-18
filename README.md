@@ -32,7 +32,12 @@ ls
 
 ## Структура проектов
 ```
- src/                <<============= Папка с бэкендом
- qml/                <<============= Папка с фронтендом
- CMakeLists.txt      <<============= Файл для сбоорки проекта
+case№/
+├── src/
+├── qml/
+│   ├── Main.qml
+│   ├── CustomButton.qml
+│   ├── PlaybackButton.qml
+│   └── WavySlider.qml
+└── CMakeLists.txt
 ```
