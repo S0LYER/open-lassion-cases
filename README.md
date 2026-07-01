@@ -34,8 +34,12 @@ ls
 ## Структура проектов
 
 ```
-case№/
+case/
 ├── src/
+│   ├── main.cpp
+│   ├── videoitem.h
+│   ├── videobackend.h
+│   ├── videobackend.cpp
 ├── qml/
 │   ├── Main.qml
 │   ├── CustomButton.qml
